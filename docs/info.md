@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+11 flip flops are used to divide the clock speed, the new slower clock is connected to 4 D-Flip Flops which act as a 4 bit counter
 
 ## How to test
 
-Explain how to use your project
+connect to Clock
 
 ## External hardware
 
